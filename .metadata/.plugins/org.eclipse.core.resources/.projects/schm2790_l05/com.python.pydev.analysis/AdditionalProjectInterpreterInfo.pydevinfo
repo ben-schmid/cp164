@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_l05/com.python.pydev.analysis/v2_indexcache
+functions|1680378208920000076|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/functions.py
+t01|1680378209046999931|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t01.py
+t03|1680378209552999973|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t03.py
+t02|1680378209069999933|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t02.py
+t05|1680378209655999898|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t05.py
+t04|1680378209592000007|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t04.py
+t06|1680378209592999935|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+9=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t03.py
+5=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t04.py
+8=functions
+4=t01
+10=t03
+2=t02
+14=t05
+6=t04
+7=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/functions.py
+12=t06
+11=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t06.py
+13=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t05.py
+1=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t02.py
+3=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l05/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+12
+ans|3|ans!1^15#1*19@ans!3^16#1*35@ans!5^16#1*51@
+bag|1|bag_to_set!7^134#5*66@
+cou|1|count!9^15#1*83@
+gcd|1|gcd!7^36#5*66@
+is_|1|is_palindrome!7^104#5*66@
+new|1|new_set!11^15#1*99@
+pal|1|palindrome!13^15#1*115@
+rec|1|recurse!7^16#5*66@
+to_|1|to_power!7^81#5*66@
+vow|1|vowel_count!7^56#5*66@
+x|1|x!3^14#1*35@
+y|1|y!3^15#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.python.pydev.ui.wizards.project.PythonProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/benschmid/eclipse/ws/cp164"/>
+			<item value="/Users/benschmid/eclipse/ws/cp164/schm2790_data_structures"/>
+			<item value=""/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_a04/data_structures/src"/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/benschmid/Downloads/schm2790_badexamzip.zip"/>
+			<item value=""/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_a04/data_structures/src/Queue_array.py"/>
+			<item value="/Users/benschmid/Downloads/schm2790_badzip.zip"/>
+			<item value="/Users/benschmid/Downloads/schm2790_trial.zip"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,103 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_e/com.python.pydev.analysis/v2_indexcache
+Sorted_Set_linked|1681755814941421881|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/Sorted_Set_linked.py
+List_linked|1681753176586484766|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/List_linked.py
+test_Sorted_Set|1681481860000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_Sorted_Set.py
+BST_linked|1681755276886882479|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/BST_linked.py
+test_List|1681483082000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_List.py
+test_BST|1681755184304748823|/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_BST.py
+-- END DISKCACHE
+-- START DICTIONARY
+32
+23=Sorted_Set.clear
+29=List.append
+30=_BST_Node._update_height
+1=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/BST_linked.py
+9=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_List.py
+32=_List_Node.__init__
+2=BST_linked
+16=_Set_Node
+6=Sorted_Set_linked
+3=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/List_linked.py
+18=_BST_Node
+31=_Set_Node.__init__
+14=List
+10=test_List
+12=test_BST
+17=BST
+25=Sorted_Set.add
+27=List.shift_rear
+28=List._remove_front
+7=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_Sorted_Set.py
+11=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/test_BST.py
+26=List.shift_front
+8=test_Sorted_Set
+15=_List_Node
+5=/Users/benschmid/eclipse/ws/cp164/schm2790_e/src/Sorted_Set_linked.py
+24=Sorted_Set._append
+20=BST.__init__
+4=List_linked
+13=Sorted_Set
+19=List.__init__
+21=_BST_Node.__init__
+22=Sorted_Set.__init__
+-- END DICTIONARY
+-- START TREE 1
+13
+_bs|1|_BST_Node!1^337#7*17@
+_li|1|_List_Node!3^178#7*33@
+_se|1|_Set_Node!5^21#7*49@
+bst|1|BST!1^21#7*17@
+fil|1|fill_set!7^34#5*66@
+fro|1|from_python_list!9^31#5*82@
+lis|1|List!3^20#7*33@
+pri|1|print_set!7^23#5*66@
+sep|3|SEP!11^21#1*99@SEP!7^19#1*67@SEP!9^18#1*83@
+sor|1|Sorted_Set!5^41#7*49@
+tes|17|test_clear!7^135#5*66@test_are_adjacents!11^24#5*98@test_linear_search!7^89#5*66@test_shift_rear!9^68#5*82@test_discard!7^160#5*66@test_add!7^67#5*66@test_difference!7^214#5*66@test_furthest!11^42#5*98@test_find!7^120#5*66@test_append!7^54#5*66@test_shift_front!9^41#5*82@test_equ!7^147#5*66@test_is_empty!7^44#5*66@test_issuperset!7^182#5*66@test_max_path!11^66#5*98@test_isdisjoint!7^197#5*66@test_contains!7^105#5*66@
+to_|1|to_python_list!9^21#5*82@
+val|3|VALUES!9^17#1*83@VALUES!7^20#1*67@VALUES!11^20#1*99@
+-- END TREE
+-- START TREE 2
+39
+__c|1|__contains__!13&5^133#9*50@
+__e|1|__eq__!13&5^150#9*50@
+__i|8|__iter__!13&5^409#9*50@__init__!14&3^95#9*34@__init__!15&3^180#9*34@__iter__!14&3^158#9*34@__init__!16&5^23#9*50@__init__!13&5^43#9*50@__init__!17&1^155#9*18@__init__!18&1^339#9*18@
+__l|2|__len__!14&3^121#9*34@__len__!13&5^118#9*50@
+__s|1|__str__!18&1^382#9*18@
+_ap|1|_append!13&5^60#9*50@
+_ar|1|_are_adjacents_aux!17&1^41#9*18@
+_co|5|_count!19&3^107#9*35@_count!20&1^166#9*19@_count!21&1^356#9*19@_count!22&5^55#9*51@_count!23&5^305#9*51@
+_fr|9|_front!22&5^53#9*51@_front!24&5^77#13*51@_front!25&5^242#13*51@_front!23&5^303#9*51@_front!26&3^35#13*35@_front!27&3^62#13*35@_front!28&3^83#9*35@_front!19&3^105#9*35@_front!29&3^150#13*35@
+_he|2|_height!21&1^355#9*19@_height!30&1^379#9*19@
+_in|2|_insert_aux!17&1^185#9*18@_inorder_aux!17&1^261#9*18@
+_le|1|_left!21&1^353#9*19@
+_li|1|_linear_search!13&5^85#9*50@
+_ma|1|_max_path_aux!17&1^122#9*18@
+_ne|2|_next!31&5^38#9*51@_next!32&3^195#9*35@
+_no|1|_node_height!17&1^317#9*18@
+_pr|1|_preorder_aux!17&1^296#9*18@
+_re|10|_rear!22&5^54#9*51@_rear!24&5^80#9*51@_rear!25&5^243#13*51@_rear!23&5^304#9*51@_remove_front!14&3^70#9*34@_rear!26&3^37#13*35@_rear!27&3^65#13*35@_rear!28&3^88#13*35@_rear!19&3^106#9*35@_rear!29&3^154#9*35@
+_ri|1|_right!21&1^354#9*19@
+_ro|1|_root!20&1^165#9*19@
+_up|1|_update_height!18&1^358#9*18@
+_va|3|_value!21&1^352#9*19@_value!31&5^37#9*51@_value!32&3^194#9*35@
+add|1|add!13&5^224#9*50@
+app|1|append!14&3^133#9*34@
+are|1|are_adjacents!17&1^23#9*18@
+cle|1|clear!13&5^292#9*50@
+dif|1|difference!13&5^312#9*50@
+dis|1|discard!13&5^272#9*50@
+fin|1|find!13&5^203#9*50@
+fur|1|furthest!17&1^72#9*18@
+ino|1|inorder!17&1^247#9*18@
+ins|1|insert!17&1^168#9*18@
+is_|2|is_empty!13&5^188#9*50@is_empty!14&3^109#9*34@
+isd|1|isdisjoint!13&5^345#9*50@
+iss|1|issuperset!13&5^377#9*50@
+max|1|max_path!17&1^105#9*18@
+pre|1|preorder!17&1^282#9*18@
+ret|1|retrieve!17&1^221#9*18@
+shi|2|shift_rear!14&3^42#9*34@shift_front!14&3^22#9*34@
+-- END TREE

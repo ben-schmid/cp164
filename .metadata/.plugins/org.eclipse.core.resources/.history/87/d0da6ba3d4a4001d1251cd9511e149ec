@@ -1,0 +1,99 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Benjamin Schmid
+ID:      169042790
+Email:   schm2790@mylaurier.ca
+__updated__ = "2023-02-04"
+-------------------------------------------------------
+"""
+# Imports
+from Stack_array import Stack
+
+# Constants
+
+
+def stack_split_alt(source):
+    """
+    -------------------------------------------------------
+    Splits the source stack into separate target stacks.
+    When finished source stack is empty. Values are
+    pushed alternately onto the returned target stacks.
+    Use: target1, target2 = stack_split_alt(source)
+    -------------------------------------------------------
+    Parameters:
+        source - the stack to split into two parts (Stack)
+    Returns:
+        target1 - contains alternating values from source (Stack)
+        target2 - contains other alternating values from source (Stack)
+    -------------------------------------------------------
+    """
+
+    target1 = Stack()
+    target2 = Stack()
+
+    i = 0
+    while source.is_empty() == False:
+        if i % 2 == 0:
+            value = source.pop()
+            target1.push(value)
+        else:
+            value = source.pop()
+            target2.push(value)
+        i += 1
+    return target1, target2
+
+
+def split_alt(self):
+    """
+    -------------------------------------------------------
+    Splits the source stack into separate target stacks with values
+    alternating into the targets. At finish source stack is empty.
+    Use: target1, target2 = source.split_alt()
+    -------------------------------------------------------
+    Returns:
+        target1 - contains alternating values from source (Stack)
+        target2 - contains other alternating values from source (Stack)
+    -------------------------------------------------------
+    """
+
+
+def is_palindrome_stack(string):
+    """
+    -------------------------------------------------------
+    Determines if string is a palindrome. Ignores case, digits, spaces, and
+    punctuation in string.
+    Use: palindrome = is_palindrome_stack(string)
+    -------------------------------------------------------
+    Parameters:
+        string - a string (str)
+    Returns:
+        palindrome - True if string is a palindrome, False otherwise (bool)
+    -------------------------------------------------------
+    """
+
+    palindrome = True
+    chars = ""
+    for c in string:
+        if c.isalpha():
+            chars += c.lower()
+
+    length = len(chars)
+    mid = 0
+    if length == 0:
+        palindrome = True
+    else:
+        mid = length // 2
+        first = Stack()
+        for i in range(mid):
+            first.push(chars[i])
+        if length % 2 == 0:
+            second = chars[mid:]
+        else:
+            second = chars[mid + 1:]
+        i = 0 
+        while palindrome and i < mid:
+            second_half = second[i]
+            first_halft = first.pop()
+            first = 

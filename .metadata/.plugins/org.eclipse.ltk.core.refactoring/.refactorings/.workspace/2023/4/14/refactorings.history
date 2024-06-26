@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;schm2790_data_structures&apos;" deleteContents="false" description="Delete resource &apos;schm2790_data_structures&apos;" element1="/schm2790_data_structures" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1680397381091"/>&#x0A;<refactoring comment="Delete resource &apos;schm2790_a09/src/gibbon.txt&apos;" deleteContents="false" description="Delete resource &apos;schm2790_a09/src/gibbon.txt&apos;" element1="/schm2790_a09/src/gibbon.txt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1680402515394"/>
+</session>

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+lineNumberRuler=true
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginAllowOverride=true
+printMarginColor=255,0,0
+printMarginColumn=200
+removeSpacesAsTabs=true
+showWhitespaceCharacters=false
+spacesForTabs=true
+spellingEnabled=true
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine

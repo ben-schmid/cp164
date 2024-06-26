@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_l09/com.python.pydev.analysis/v2_indexcache
+functions|1679599798000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/functions.py
+t01|1681525738660647716|/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/t01.py
+t02|1679674540000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=t01
+6=functions
+4=t02
+3=/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/t02.py
+5=/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/functions.py
+1=/Users/benschmid/eclipse/ws/cp164/schm2790_l09/src/t01.py
+-- END DICTIONARY
+-- START TREE 1
+4
+a|1|a!1^18#1*19@
+fv|1|fv!1^16#1*19@
+h|1|h!3^14#1*35@
+has|1|hash_table!5^16#5*50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

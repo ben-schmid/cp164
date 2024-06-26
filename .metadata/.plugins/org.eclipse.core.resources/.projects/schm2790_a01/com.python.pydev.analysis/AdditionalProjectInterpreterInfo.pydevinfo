@@ -1,0 +1,100 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_a01/com.python.pydev.analysis/v2_indexcache
+asgn01.src.t01|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t01.py
+functions|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/functions.py
+asgn01.src.functions|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/functions.py
+asgn01.src.t08|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t08.py
+asgn01.src.t09|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t09.py
+asgn01.src.t06|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t06.py
+asgn01.src.t07|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t07.py
+asgn01.src.t04|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t04.py
+asgn01.src.__init__|1680397129434670329|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src|^
+asgn01.src.t05|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t05.py
+asgn01.src.t02|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t02.py
+asgn01.src.t03|1680367392000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t03.py
+t01|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t01.py
+t03|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t03.py
+t02|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t02.py
+t05|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t05.py
+t04|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t04.py
+t07|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t07.py
+t06|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t06.py
+t09|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t09.py
+asgn01.__init__|1680397129424346328|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01|^
+t08|1680367390000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+40
+13=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t09.py
+18=functions
+16=asgn01.src.functions
+11=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t07.py
+3=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t05.py
+25=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t03.py
+27=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t09.py
+23=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t01.py
+37=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t01.py
+1=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t07.py
+39=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t05.py
+33=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t03.py
+17=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/functions.py
+15=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/functions.py
+21=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t08.py
+24=asgn01.src.t01
+5=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t04.py
+7=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t06.py
+22=asgn01.src.t08
+9=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/asgn01/src/t02.py
+14=asgn01.src.t09
+35=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t08.py
+8=asgn01.src.t06
+12=asgn01.src.t07
+6=asgn01.src.t04
+19=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t06.py
+4=asgn01.src.t05
+10=asgn01.src.t02
+29=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t02.py
+26=asgn01.src.t03
+31=/Users/benschmid/eclipse/ws/cp164/schm2790_a01/src/t04.py
+38=t01
+34=t03
+30=t02
+40=t05
+32=t04
+2=t07
+20=t06
+28=t09
+36=t08
+-- END DICTIONARY
+-- START TREE 1
+25
+a|1|a!1^15#1*19@
+act|6|actual!3^24#5*35@actual!5^16#5*51@actual!7^24#5*67@actual!9^16#1*83@actual!11^21#5*99@actual!13^22#5*115@
+alp|3|ALPHA_SIZE!15^14#1*131@ALPHABET!17^18#1*147@ALPHA!15^13#1*131@
+b|2|b!19^15#1*163@b!1^18#1*19@
+c|1|c!1^19#1*19@
+cas|7|CASES!11^19#1*99@CASES!21^21#1*179@CASES!7^22#1*67@CASES!23^20#1*195@CASES!3^22#1*35@CASES!25^18#1*211@CASES!5^14#1*51@
+cip|1|CIPHERTEXT!15^15#1*131@
+cle|2|clean_list!15^18#5*130@clean_list!17^21#5*146@
+est|1|estring!27^20#5*227@
+fil|4|file_analyze!17^48#5*146@file_analyze!15^45#5*130@filename!9^14#1*83@filename!13^14#1*115@
+fin|2|find_subs!17^87#5*146@find_subs!15^84#5*130@
+fn|1|fn!27^16#1*227@
+fv|4|fv!27^15#1*227@fv!29^15#1*243@fv!13^15#1*115@fv!9^15#1*83@
+is_|4|is_valid!15^139#5*130@is_valid!17^135#5*146@is_leap_year!15^116#5*130@is_leap_year!17^112#5*146@
+lea|1|leap_year!31^15#1*259@
+loc|2|locations!33^15#1*275@location!25^20#5*211@
+mat|4|matrix_transpose!15^176#5*130@matrixes_multiply!15^202#5*130@matrixes_multiply!17^193#5*146@matrix_transpose!17^166#5*146@
+n|2|n!13^16#1*115@n!27^17#1*227@
+pig|2|pig_latin!15^238#5*130@pig_latin!17^226#5*146@
+pl|1|pl!35^14#1*291@
+res|2|result!23^22#5*195@results!21^23#5*179@
+shi|2|shift!17^261#5*146@shift!15^284#5*130@
+str|1|string!27^19#5*227@
+val|2|values!37^15#1*307@valid!39^15#1*323@
+vow|3|VOWELS!15^12#1*131@VOWELS_Y!17^15#1*147@VOWELS!17^14#1*147@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

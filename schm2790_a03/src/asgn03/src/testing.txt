@@ -1,0 +1,113 @@
+"""
+-------------------------------------------------------
+Assignment 3 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+Version: 2023-01-25
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+"""
+
+See Task 2
+
+"""
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+"""
+
+Testing 'stack_split_alt'
+
+source contents:
+4, 3, 2, 0, 1, 
+
+split_alt
+source contents:
+
+target1 contents:
+1, 2, 4, 
+target2 contents:
+0, 3, 
+
+Compare to Stack 'split_alt'
+
+source contents:
+4, 3, 2, 0, 1, 
+
+split_alt
+source contents:
+
+target1 contents:
+1, 2, 4, 
+target2 contents:
+0, 3, 
+
+Done
+
+"""
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+"""
+
+Testing 'is_palindrome_stack'
+
+is_palindrome_stack('') -> True
+is_palindrome_stack('a') -> True
+is_palindrome_stack('aa') -> True
+is_palindrome_stack('aaa') -> True
+is_palindrome_stack('otto') -> True
+is_palindrome_stack('RaceCar') -> True
+is_palindrome_stack('Able was I ere I saw Elba') -> True
+is_palindrome_stack('A man, a plan, a canal, Panama!') -> True
+is_palindrome_stack('David') -> False
+Done
+
+"""
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+"""
+
+Testing 'postfix'
+
+postfix('0') -> 0.0
+postfix('4 5 + 12 * 2 3 * -') -> 102.0
+postfix('12 5 -') -> 7.0
+Done
+
+"""
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+"""
+
+Testing 'stack_maze'
+
+stack_maze({'Start': ['X']}) -> ['X']
+stack_maze({'Start': ['A'], 'A': ['B', 'C'], 'B': [], 'C': ['D', 'E'], 'D': [], 'E': ['F', 'X'], 'F': ['G', 'H'], 'G': [], 'H': []}) -> ['A', 'C', 'E', 'X']
+stack_maze({'Start': ['A'], 'A': []}) -> None
+stack_maze({'Start': ['A', 'B'], 'A': [], 'B': ['C'], 'C': ['D'], 'D': ['X', 'B']}) -> ['B', 'C', 'D', 'X']
+Done
+
+"""
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+"""
+
+Testing 'is_mirror_stack'
+
+is_mirror_stack(ama, a, m) -> MIRRORED.IS_MIRRORED: is a mirror
+is_mirror_stack(a, a, m) -> MIRRORED.NOT_MIRRORED: no mirror character
+is_mirror_stack(ama, g, m) -> MIRRORED.INVALID_CHAR: invalid character
+is_mirror_stack(aama, a, m) -> MIRRORED.TOO_MANY_LEFT: too many characters in L
+is_mirror_stack(amaa, a, m) -> MIRRORED.TOO_MANY_RIGHT: too many characters in R
+is_mirror_stack(amb, ab, m) -> MIRRORED.MISMATCHED: L and R don't match
+is_mirror_stack(cmc, ab, m) -> MIRRORED.INVALID_CHAR: invalid character
+is_mirror_stack(zzxzxzxzz, xyz, u) -> MIRRORED.NOT_MIRRORED: no mirror character
+is_mirror_stack(zzxzuzx, xyz, u) -> MIRRORED.TOO_MANY_LEFT: too many characters in L
+Done

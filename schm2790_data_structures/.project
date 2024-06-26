@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>schm2790_data_structures</name>
+	<comment></comment>
+	<projects>
+		<project>schm2790_a01</project>
+		<project>schm2790_a02</project>
+		<project>schm2790_l01</project>
+		<project>schm2790_l02</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+</projectDescription>

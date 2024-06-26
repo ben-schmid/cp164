@@ -1,0 +1,151 @@
+"""
+-------------------------------------------------------
+Assignment 6 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+Version: 2021-11-09
+-------------------------------------------------------
+Question 1
+-------------------------------------------------------
+"""
+
+Numbers:
+
+Queue Test
+Queue Initialised
+
+------------------------------------------------------------
+Queue empty (expect True): True
+Queue size (expect 0): 0
+------------------------------------------------------------
+Add one item to Queue
+Front of Queue (peek):
+0
+------------------------------------------------------------
+Queue empty (expect False): False
+Queue size (expect 1): 1
+------------------------------------------------------------
+Queue remove
+0
+------------------------------------------------------------
+Queue empty (expect True): True
+Queue size (expect 0): 0
+------------------------------------------------------------
+Copy all data to Queue
+Queue empty (expect False): False
+Queue size (expect > 0): 5
+------------------------------------------------------------
+Front of Queue (peek):
+0
+------------------------------------------------------------
+Remove all elements from Queue
+0
+1
+2
+3
+4
+------------------------------------------------------------
+Queue empty (expect True): True
+Queue size (expect 0): 0
+
+Done
+
+
+"""
+-------------------------------------------------------
+Question 2
+-------------------------------------------------------
+"""
+
+Numbers:
+
+Priority Queue Test
+Priority Queue Initialised
+
+------------------------------------------------------------
+Priority Queue empty (expect True): True
+Priority Queue size (expect 0): 0
+------------------------------------------------------------
+Add one item to Priority Queue
+Front of Priority Queue (peek):
+0
+------------------------------------------------------------
+Priority Queue empty (expect False): False
+Priority Queue size (expect 1): 1
+------------------------------------------------------------
+Priority Queue remove
+0
+------------------------------------------------------------
+Priority Queue empty (expect True): True
+Priority Queue size (expect 0): 0
+------------------------------------------------------------
+Copy all data to Priority Queue
+Priority Queue empty (expect False): False
+Priority Queue size (expect > 0): 5
+------------------------------------------------------------
+Front of Priority Queue (peek):
+0
+------------------------------------------------------------
+Remove all elements from Priority Queue
+0
+1
+2
+3
+4
+------------------------------------------------------------
+Priority Queue empty (expect True): True
+Priority Queue size (expect 0): 0
+
+Done
+
+"""
+-------------------------------------------------------
+Question 3
+-------------------------------------------------------
+"""
+
+Numbers:
+
+Deque Test
+Deque Initialised
+
+------------------------------------------------------------
+Deque empty (expect True): True
+Deque size (expect 0): 0
+------------------------------------------------------------
+Add one item to Deque
+Front of Deque (peek):
+0
+------------------------------------------------------------
+Deque empty (expect False): False
+Deque size (expect 1): 1
+------------------------------------------------------------
+Deque remove
+0
+------------------------------------------------------------
+Deque empty (expect True): True
+Deque size (expect 0): 0
+------------------------------------------------------------
+Copy all data to Deque
+Deque empty (expect False): False
+Deque size (expect > 0): 5
+------------------------------------------------------------
+Front of Deque (peek):
+4
+------------------------------------------------------------
+Rear of Deque (peek):
+0
+------------------------------------------------------------
+Remove all elements from Deque
+4
+3
+2
+1
+0
+------------------------------------------------------------
+Deque empty (expect True): True
+Deque size (expect 0): 0
+
+Done

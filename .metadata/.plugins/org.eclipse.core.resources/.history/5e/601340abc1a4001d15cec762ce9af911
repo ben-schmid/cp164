@@ -1,0 +1,27 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Benjamin Schmid
+ID:      169042790
+Email:   schm2790@mylaurier.ca
+__updated__ = "2023-02-04"
+-------------------------------------------------------
+"""
+# Imports
+from functions import stack_split_alt
+
+from functions import stack_split_alt
+from Stack_array import Stack
+
+a = [5,7,8,9,12,14,8]
+print('Source {}'.format(a))
+print()
+
+source = Stack()
+
+for v in a:
+    source.push(v)
+    
+target1, target2 = stack_split_alt(source)
+print target1, target2

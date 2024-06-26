@@ -1,0 +1,92 @@
+"""
+-------------------------------------------------------
+testing.txt
+Assignment 8 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+__updated__ = "2021-03-24"
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+"""
+
+Values: [3, 1, 5, 0, 2, 4, 6]
+
+Preorder
+[3, 1, 0, 2, 5, 4, 6]
+Inorder:
+[0, 1, 2, 3, 4, 5, 6]
+Postorder
+[0, 2, 1, 4, 6, 5, 3]
+Levelorder
+[3, 1, 5, 0, 2, 4, 6]
+Minimum
+0
+Leaf Count
+4
+One Child Count
+0
+Two Child Count
+3
+Is Balanced
+True
+Valid
+True
+
+"""
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+"""
+
+For 'movies.txt':
+
+Comparing by order: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Total Comparisons: 10,076
+------------------------------
+Comparing by order: MFTCJPWADHKNRUYBEIGLOQSVXZ
+Total Comparisons: 3,275
+------------------------------
+Comparing by order: ETAOINSHRDLUCMPFYWGBVKJXZQ
+Total Comparisons: 3,135
+
+"""
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+"""
+
+Letter Count/Percent Table
+
+Total Count: 436
+
+Letter  Count          %
+------------------------
+ A       53       12.16%
+ B        6        1.38%
+ C       12        2.75%
+ D       22        5.05%
+ E       48       11.01%
+ F       11        2.52%
+ G       13        2.98%
+ H       18        4.13%
+ I       18        4.13%
+ J        7        1.61%
+ K        2        0.46%
+ L       24        5.50%
+ M       14        3.21%
+ N       35        8.03%
+ O       32        7.34%
+ P        5        1.15%
+ Q        0        0.00%
+ R       35        8.03%
+ S       25        5.73%
+ T       22        5.05%
+ U       12        2.75%
+ V        4        0.92%
+ W        9        2.06%
+ X        2        0.46%
+ Y        6        1.38%
+ Z        1        0.23%

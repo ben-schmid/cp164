@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="/Users/benschmid/Downloads/cp104_prefs.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/benschmid/Downloads/cp104_prefs.epf"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/benschmid/Downloads/Untitled.zip"/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/schm2790_e.zip"/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/schm2790_a10.zip"/>
+			<item value="/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/schm2790_a09.zip"/>
+			<item value="/Users/benschmid/Documents/schm2790_m.zip"/>
+			<item value="G:\My Drive\Computer Science Laurier\Year 1\Semester 2\CP164\schm2790_a03.zip"/>
+			<item value="G:\My Drive\Computer Science Laurier\Year 1\Semester 2\CP164\schm2790_l03.zip"/>
+			<item value="G:\My Drive\Computer Science Laurier\Year 1\Semester 2\CP164\schm2790_a02.zip"/>
+			<item value="G:\My Drive\Computer Science Laurier\Year 1\Semester 2\CP164\schm2790_l02.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/benschmid/Downloads/schm2790_trial.zip"/>
+			<item value="/Users/benschmid/Downloads/a06_10.zip"/>
+			<item value="C:\Users\Bensc\Downloads\a03 (1).zip"/>
+			<item value="C:\Users\Bensc\Downloads\Xaeros_Minimap_22.17.1_Forge_1.19.3.jar"/>
+		</list>
+	</section>
+</section>

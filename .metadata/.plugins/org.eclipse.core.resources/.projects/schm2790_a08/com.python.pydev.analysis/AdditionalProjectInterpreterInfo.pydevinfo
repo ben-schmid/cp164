@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_a08/com.python.pydev.analysis/v2_indexcache
+functions|1679867364000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a08/src/functions.py
+t02|1679867524000000000|/Users/benschmid/eclipse/ws/cp164/schm2790_a08/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/Users/benschmid/eclipse/ws/cp164/schm2790_a08/src/t02.py
+4=functions
+2=t02
+3=/Users/benschmid/eclipse/ws/cp164/schm2790_a08/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+8
+bst|3|bst2!1^29#1*19@bst3!1^30#1*19@bst1!1^28#1*19@
+com|1|comparison_total!3^45#5*34@
+cre|1|create_bst!1^21#5*18@
+dat|3|DATA3!1^18#1*19@DATA1!1^16#1*19@DATA2!1^17#1*19@
+do_|1|do_comparisons!3^17#5*34@
+fil|1|file_variable!1^32#1*19@
+let|1|letter_table!3^65#5*34@
+tot|3|total2!1^46#1*19@total1!1^37#1*19@total3!1^55#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

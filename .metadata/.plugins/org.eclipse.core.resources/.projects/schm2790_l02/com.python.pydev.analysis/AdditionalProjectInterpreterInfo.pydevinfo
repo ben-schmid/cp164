@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/benschmid/eclipse/ws/cp164/.metadata/.plugins/org.eclipse.core.resources/.projects/schm2790_l02/com.python.pydev.analysis/v2_indexcache
+t05|1680378207434999942|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l02/src/t05.py
+t04|1680378207415999889|/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l02/src/t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=t05
+4=t04
+1=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l02/src/t05.py
+3=/Users/benschmid/Library/CloudStorage/GoogleDrive-ben.schmid1@gmail.com/My Drive/Computer Science Laurier/Year 1/Semester 2/CP164/cp164/schm2790_l02/src/t04.py
+-- END DICTIONARY
+-- START TREE 1
+2
+fv|1|fv!1^15#1*19@
+sou|2|source!1^16#1*19@source!3^15#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

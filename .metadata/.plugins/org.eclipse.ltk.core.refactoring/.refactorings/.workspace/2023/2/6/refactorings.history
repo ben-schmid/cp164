@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/schm2790_a03/assets" element2="/schm2790_a03/META-INF" element3="/schm2790_a03/xaero" element4="/schm2790_a03/pack.mcmeta" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1676056806889"/>
+</session>

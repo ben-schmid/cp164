@@ -1,0 +1,90 @@
+"""
+-------------------------------------------------------
+Assignment 9 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+__updated__ = "2021-03-24"
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+"""
+
+(with pelee.txt)
+
+Using array-based list HashSet
+
+Total Comparisons: 478
+Word with maximum comparisons 'the': 17
+
+(with miserables.txt)
+
+Using array-based list HashSet
+
+Total Comparisons: 6,848,825
+Word with maximum comparisons 'the': 40,650
+
+"""
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+"""
+
+(with pelee.txt)
+
+Using array-based Sorted List HashSet
+
+Total Comparisons: 589
+Word with maximum comparisons 'of': 29
+
+(with miserables.txt)
+
+Using array-based Sorted List HashSet
+
+Total Comparisons: 2,699,766
+Word with maximum comparisons 'the': 58,910
+
+
+"""
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+"""
+
+(with pelee.txt)
+
+Total Comparisons: 938
+Word with maximum comparisons 'the': 48
+
+(with miserables.txt)
+
+Using linked BST HashSet
+
+Total Comparisons: 3,589,726
+Word with maximum comparisons 'the': 121,972
+
+"""
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+"""
+
+BST data preorder: [11, 7, 6, 9, 8, 15, 12, 18]
+-
+Attempt to remove invalid key: 999
+Value removed: None
+BST data preorder: [11, 7, 6, 9, 8, 15, 12, 18]
+-
+Remove node with one child: 9
+Value removed: 9
+BST data preorder: [11, 7, 6, 8, 15, 12, 18]
+-
+Remove node with no child: 12
+Value removed: 12
+BST data preorder: [11, 7, 6, 8, 15, 18]
+-
+Remove node with two children: 11
+Value removed: 11
+BST data preorder: [8, 7, 6, 15, 18]
+-

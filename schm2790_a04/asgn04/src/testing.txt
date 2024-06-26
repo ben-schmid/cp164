@@ -1,0 +1,123 @@
+"""
+-------------------------------------------------------
+Assignment 4 Testing
+-------------------------------------------------------
+Author:  David Brown
+ID:      999999999
+Email:   dbrown@wlu.ca
+Version: 2022-10-17
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+"""
+
+Queue Initialised
+
+----------------------------------------
+Queue is_empty (expect True): True
+Queue size (expect 0): 0
+----------------------------------------
+Add one item to Queue
+Front of Queue (peek):
+0
+----------------------------------------
+Queue is_empty (expect False): False
+Queue size (expect 1): 1
+----------------------------------------
+Queue remove
+0
+----------------------------------------
+Queue is_empty (expect True): True
+Queue size (expect 0): 0
+----------------------------------------
+Copy all data to Queue
+Queue is_empty (expect False): False
+Queue size (expect > 0): 10
+----------------------------------------
+Front of Queue (peek):
+0
+----------------------------------------
+Remove all elements from Queue
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+----------------------------------------
+Queue is_empty (expect True): True
+Queue size (expect 0): 0
+
+"""
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+"""
+
+q1: [], q2: []
+q1 == q2: True
+q1: (1, 2, 3), q2: (1, 2, 3)
+q1 == q2: True
+q1: (1, 2, 3), q2: (3, 2, 1)
+q1 == q2: False
+q1: (1, 2, 3), q2: (1, 2)
+q1 == q2: False
+
+"""
+-------------------------------------------------------
+Tasks 3 & 4
+-------------------------------------------------------
+"""
+
+Testing 'queue_combine'
+
+Contents of source1:
+[5, 8, 12, 8]
+Contents of source2:
+[7, 9, 14]
+----------------------------------------
+Combing source1 and source2 into target
+
+Contents of target:
+[5, 7, 8, 9, 12, 14, 8]
+
+Testing 'Queue.combine'
+
+Contents of source1:
+[5, 8, 12, 8]
+Contents of source2:
+[7, 9, 14]
+----------------------------------------
+Combing source1 and source2 into target
+
+Contents of target:
+[5, 7, 8, 9, 12, 14, 8]
+
+Done
+
+"""
+-------------------------------------------------------
+Task 5 & 6
+-------------------------------------------------------
+"""
+
+Testing 'pq_split_key'
+
+Contents of source:
+4, 1, 7, 3, 9, 2, 4, 5, 1, 7, 0, 9, 
+------------------------------------------------------------
+Split source into target1 and target2
+
+Contents of target1:
+0, 1, 1, 2, 3, 
+Contents of target2:
+4, 4, 5, 7, 7, 9, 9, 
+------------------------------------------------------------
+Testing 'Priority_Queue.split_key'
+
+Contents of source:
+4, 1, 7, 3, 9, 2, 4, 5, 1, 7, 0, 9, 
+------------------------------------------------------------
+Split source into target1 and target2
+
+Contents of target1:
+1, 3, 2, 1, 0, 
+Contents of target2:
+4, 7, 9, 4, 5, 7, 9, 
+
+Done

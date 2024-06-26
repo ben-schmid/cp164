@@ -1,0 +1,15 @@
+i = 0
+    lines = line.split("|")
+    title = lines[0]
+    year = int(lines[1])
+    director = lines[2]
+    rating = float(lines[3])
+    genres = lines[4].split(",")
+
+    while i < len(genres):
+        genres[i] = int(genres[i])
+        i += 1
+
+    movie = Movie(title, year, director, rating, genres)
+
+    return movie
